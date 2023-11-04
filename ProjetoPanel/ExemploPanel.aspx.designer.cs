@@ -51,13 +51,13 @@ namespace ProjetoPanel
         protected global::System.Web.UI.WebControls.TextBox txtSobrenome;
 
         /// <summary>
-        /// txtGenero control.
+        /// ddlGenero control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtGenero;
+        protected global::System.Web.UI.WebControls.DropDownList ddlGenero;
 
         /// <summary>
         /// txtCelular control.
@@ -76,6 +76,15 @@ namespace ProjetoPanel
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnProximo1;
+
+        /// <summary>
+        /// lblAviso1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAviso1;
 
         /// <summary>
         /// Panel2 control.
@@ -132,6 +141,15 @@ namespace ProjetoPanel
         protected global::System.Web.UI.WebControls.Button btnProximo2;
 
         /// <summary>
+        /// lblAviso2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAviso2;
+
+        /// <summary>
         /// Panel3 control.
         /// </summary>
         /// <remarks>
@@ -177,12 +195,12 @@ namespace ProjetoPanel
         protected global::System.Web.UI.WebControls.Button btnEnviar;
 
         /// <summary>
-        /// lblAviso control.
+        /// lblAviso3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblAviso;
+        protected global::System.Web.UI.WebControls.Label lblAviso3;
     }
 }
